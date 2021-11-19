@@ -1,0 +1,14 @@
+{
+  "name": "nodeClient",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git remote add google ssh://jfwolfe5@gmail.com@source.developers.google.com:2022/p/polarization-chart/r/widgetBackend",
+  "author": "Jack Wolfe",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "puppeteer": "^10.4.0"
+  }
+}
